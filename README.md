@@ -2,9 +2,9 @@
 Pequeña galería de proyectos Java empleando la librería Swing y bases de datos como MySQL.
 
 ## Proyectos
-1. 🧑‍🤝‍🧑 [Inserción Alumnos sin Base de Datos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/01.%20Proyecto%20Insercion%20Alumnos%20Sin%20DB)
-2. 🦹‍♂️ [Supermercado El Futuro](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/02.%20Supermercado%20El%20Futuro)
-3. 🦹‍♂️ [Mini Gestión Tienda](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/03.%20Minisistema%20Tienda)
+1. 👺 [Inserción Alumnos sin Base de Datos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/01.%20Proyecto%20Insercion%20Alumnos%20Sin%20DB)
+2. 👺 [Supermercado El Futuro](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/02.%20Supermercado%20El%20Futuro)
+3. 👺 [Mini Gestión Tienda](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/03.%20Minisistema%20Tienda)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 * Clonar el proyecto en tu máquina local
