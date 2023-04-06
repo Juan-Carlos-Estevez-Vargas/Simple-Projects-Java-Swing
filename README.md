@@ -1,4 +1,4 @@
-# Simple-Projects-Java-Swing
+# Simple Projects Java Swing
 Pequeña galería de proyectos Java empleando la librería Swing y bases de datos como MySQL.
 
 ## Proyectos
