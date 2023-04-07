@@ -6,6 +6,7 @@ Pequeña galería de proyectos Java empleando la librería Swing y bases de dato
 2. 👺 [Supermercado El Futuro](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/02.%20Supermercado%20El%20Futuro)
 3. 👺 [Mini Gestión Tienda](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/03.%20Minisistema%20Tienda)
 4. 👺 [Gráficas de Barras, Circular y Porcentual con Graphics 2D](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/04.%20Graficas%20de%20Barras%2C%20Circular%20y%20Porcentual)
+5. 👺 [Operaciones entre Conjuntos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/05.%20Operaciones%20Entre%20Conjuntos)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 * Clonar el proyecto en tu máquina local
