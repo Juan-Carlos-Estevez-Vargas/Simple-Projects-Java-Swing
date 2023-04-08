@@ -9,6 +9,7 @@ Pequeña galería de proyectos Java empleando la librería Swing y bases de dato
 5. 👺 [Operaciones entre Conjuntos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/05.%20Operaciones%20Entre%20Conjuntos)
 6. 👺 [Calculadora Basica (Gráfica en Swing)](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/06.%20Calculadora%20Basica%20(Grafica%20Swing))
 7. 👺 [Sistemas Numéricos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/07.%20Sistemas%20Numericos)
+8. 👺 [Analizador Sintáctico](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Java-Swing/tree/master/08.%20Analizador%20Sintactico)
 
 ## Pasos para ejecutar cada uno de los proyectos:
 * Clonar el proyecto en tu máquina local
